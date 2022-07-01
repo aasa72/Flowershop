@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  background-color: lightgray;
+}
+header {
+  background-image: url("images/christian-lue-X1hMsFnQ-mw-unsplash.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color:azure;
+  font-size: 76px;
+  text-align: right;
+  margin: 0;
+  padding: 100px 40px;
+}
+
+h2 {
+  color:teal;
+  text-align: center;
+  font-size: 42px;
+  margin: 0;
+  padding: 30px;
+}
+
+p {
+  margin: 0;
+  
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 40px auto;
+}
+
+.about-section {
+  background-color:violet;
+  margin: 0;
+}
+
+.offer-section {
+  display: flex;
+}
+
+.column {
+  display: flex;
+  margin: 40px 20px;
+}
+
+.open-section {
+  background: grey;
+  margin: 0 auto;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.open-section p {
+  font-size: 32px;
+}
+
+footer {
+  background-color: purple;
+  color: azure;
+  margin: 0;
+  padding: 30px 0;
+}
+
+footer p {
+  font-size: 12px;
+  text-align: center;
+  margin: 0;
+ 
+
+}
